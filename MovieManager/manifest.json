@@ -1,0 +1,11 @@
+{ 
+    "start_url": "/index.html",
+    "short-name":"Movie" ,
+    "name":"MyFilm" ,
+    "description": "MiniProjet" ,
+    "display": "fullscreen" ,
+    "background_color": "#FFFFFF" ,
+    "theme-color=":"rgb(230, 166, 48)" ,
+    "orientation":"portrait"
+}
+
